@@ -9,3 +9,5 @@ echo 'export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"' >> ~/.zprofile
 
 bundle
 
+cd ~/(GIt Hub directory)
+jekyll serve

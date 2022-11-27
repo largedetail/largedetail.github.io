@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"base\";",
-		"body {\n    font-family: 'Noto Sans JP', sans-serif;\n}\n\nh1 {\n    font-size: 1em;\n}\n\nli {\n    font-size: 1em;\n}"
+		"h1 {\n    font-size: 1em;\n}\n\nli {\n    font-size: 1em;\n}"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,0BAA0B,GAC1C;;AAED,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,GAAG,GACjB;;AAED,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,GAAG,GACjB"
+	"mappings": "ACAA,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,GAAG,GACjB;;AAED,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,GAAG,GACjB"
 }
